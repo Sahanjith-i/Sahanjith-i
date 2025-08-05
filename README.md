@@ -1,79 +1,54 @@
-<h1 align="center">Hi 👋, I'm Isira Sahanjith</h1>
-<h3 align="center">Crafting seamless user experiences with design & code</h3>
+<h1 align="center">Hi there 👋, I'm Isira</h1>
+
+<h3 align="center">🎨 UI/UX Designer & Frontend Craftsman — Transforming ideas into delightful digital experiences</h3>
 
 ---
 
-🌟 **Who Am I?**
+### 🚀 About Me
 
-I'm a passionate **UI/UX Developer** blending aesthetics with functionality. I transform ideas into intuitive and interactive digital experiences that **delight users** and **drive results**.
-
----
-
-🔭 **Currently Building**  
-🎯 `Tractor Spare Parts Distribution System`  
-A digital transformation project for automating logistics, order management, and transport planning  
-[🔗 View Project](https://github.com/YourUsername/tractor-distribution)
-
-🤝 **Open to Collaborations On**  
-🚀 Design Systems • UI/UX Projects • React-based Applications  
-[🔗 Let's Connect](mailto:your.email@example.com)
+- 💼 Currently building: **RecycliQ** – a smart waste management app merging AI, AR & IoT  
+- 🤝 Open to collaborating on innovative frontend projects, design systems, or social impact apps  
+- 🌱 Diving deeper into: `Framer Motion`, `Next.js`, `Design Systems`, `Micro-interactions`  
+- 🧠 Passionate about: Accessibility-first design, emotional UX, and storytelling through interfaces  
+- 🎯 Mission: To make tech feel *human*, *intuitive*, and *joyful* ✨  
 
 ---
 
-💡 **Design Meets Code**  
-I live at the intersection of pixel-perfect designs and scalable frontend architectures.
+### 🧩 Tech & Toolbelt
 
-✨ Figma → Prototypes  
-⚙️ React.js → Production  
-🎨 Tailwind CSS → Aesthetic UIs  
-📐 User-Centered Design → Always.
+<img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,html,css,js,ts,react,nextjs,tailwind,bootstrap,framer,vite" />
 
----
-
-📚 **Learning & Growing**  
-- 🔥 Advanced Motion UI with **Framer Motion**
-- 🧠 Human Psychology for Design Decisions
-- 🧰 Building Design Systems & Token Frameworks
+- 🖌️ Design: Figma, Adobe XD, Illustrator, Photoshop  
+- 🧪 Frontend: HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- ⚛️ Frameworks: React, Next.js, Tailwind CSS, Framer Motion  
+- 🧠 UX Toolkit: Personas, Journey Maps, Wireframes, Prototypes, Usability Testing
 
 ---
 
-💬 **Ask Me About**  
-UX flows, micro-interactions, accessibility-first design, component libraries, Figma tips, or just... cool color palettes 🎨
+### 📈 GitHub Stats
 
----
-
-📫 **How to Reach Me**  
-📧 isira@example.com  
-🌐 [Portfolio Website](https://your-portfolio.com)  
-💼 [LinkedIn](https://linkedin.com/in/isira-sahanjith)  
-📷 [Dribbble/Behance](https://dribbble.com/yourhandle) *(if applicable)*
-
----
-
-🚀 **Tech Stack**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma,vite,git,github,vscode" />
-</p>
-
----
-
-🎯 **Design Philosophy**  
-> “Design is not just what it looks like and feels like. Design is how it works.” – *Steve Jobs*
-
-I focus on clarity, emotion, and usability. Whether it's a **landing page** or a **mobile app interface**, I believe in building **experiences, not just interfaces**.
-
----
-
-🧠 **Fun Fact**  
-I spend hours perfecting **1-pixel alignment** and obsess over **hover states** 🤓
-
----
-
-<!-- Optionally, add GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="Isira's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isirashanjith&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isirashanjith&theme=radical" width="48%" />
 </p>
 
 ---
+
+### 💬 Let's Connect
+
+- 📫 Reach me at: `isirashanjith@gmail.com`  
+- 🧠 Portfolio (Coming soon): [isirashanjith.github.io](https://isirashanjith.github.io)  
+- 🔗 LinkedIn: [linkedin.com/in/isirashanjith](https://linkedin.com/in/isirashanjith)
+
+---
+
+### ✨ Fun Facts
+
+- 🧘 I believe great design is like meditation: clear, mindful, and intentional  
+- 🎨 I sketch app concepts before I sleep  
+- 🌍 Working on apps that improve real-world sustainability, one pixel at a time  
+
+---
+
+> **"Design is not just what it looks like and feels like. Design is how it works." – Steve Jobs**
 
