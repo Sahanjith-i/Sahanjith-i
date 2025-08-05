@@ -1,95 +1,93 @@
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div align="center">
 
-<!-- Animated waving hand -->
-<h1>
-  <span style="animation: wave 2s infinite;">👋</span>, I'm <b style="color: #00bcd4;">Isira Sahanjith</b>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ISIRA%20SAHANJITH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-<!-- Subtitle with gradient text -->
-<h3 style="background: linear-gradient(90deg, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent;">
-  UI/UX Designer | Designing Delight, Building Beauty
-</h3>
+</div>
 
-<!-- Profile views badge -->
-<p><img src="https://komarev.com/ghpvc/?username=sahanjith-i&label=Profile%20views&color=00bcd4&style=flat" alt="Profile Views" /></p>
+<div align="center">
 
-<!-- GitHub Trophy -->
-<p><a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=sahanjith-i&theme=radical" alt="Trophies" /></a></p>
+# 🌟 Welcome to My Digital Universe
 
-<!-- Highlighted skills with color blocks -->
-<p align="center" style="font-size: 1.1rem;">
-  <span style="background:#00bcd4;color:#fff;padding:4px 10px;border-radius:20px;margin:3px;display:inline-block;">🎨 Advanced Figma Prototyping</span>
-  <span style="background:#e91e63;color:#fff;padding:4px 10px;border-radius:20px;margin:3px;display:inline-block;">💻 React + Tailwind UI Systems</span>
-  <span style="background:#673ab7;color:#fff;padding:4px 10px;border-radius:20px;margin:3px;display:inline-block;">📱 Android UI XML + Jetpack</span>
-  <span style="background:#ff9800;color:#fff;padding:4px 10px;border-radius:20px;margin:3px;display:inline-block;">☁️ Firebase Auth & Firestore</span>
-  <span style="background:#4caf50;color:#fff;padding:4px 10px;border-radius:20px;margin:3px;display:inline-block;">🤖 AI in User Experience Design</span>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=UI%2FUX+Designer+%7C+Digital+Artist;Crafting+Tomorrow's+Interfaces;Where+Creativity+Meets+Code" alt="Dynamic Typing" />
 
-<!-- About Me -->
-<p align="center" style="font-size:1rem; max-width: 600px;">
-  💬 Ask me about <b style="color:#e91e63;">UI Design · UX Strategy · Figma · Prototyping · Microinteractions · React · Frontend Animations</b>
-</p>
+<br/>
 
-<!-- Contact -->
-<p align="center" style="font-size:1rem;">
-  📫 How to reach me: <a href="mailto:isira.sahan@gmail.com" style="color:#00bcd4; text-decoration:none;">isira.sahan@gmail.com</a>
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<!-- Experience link with button style -->
-<p align="center">
-  <a href="https://isira.sahan" target="_blank" style="background:#673ab7;color:#fff;padding:10px 20px;border-radius:25px; text-decoration:none; font-weight:bold;">
-    Know about my experiences
-  </a>
-</p>
+</div>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsiraSahanjith&show_icons=true&theme=radical&hide_border=true" alt="Isira's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraSahanjith&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+---
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanjith-i&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<!-- Social Icons with hover effect -->
-<p align="center">
-  <a href="https://twitter.com/isirasahanjith" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" style="filter: grayscale(100%); transition: filter 0.3s ease;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)" />
-  </a>
-  <a href="https://linkedin.com/in/isirasahanjith" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" style="filter: grayscale(100%); transition: filter 0.3s ease;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)" />
-  </a>
-  <a href="https://fb.com/isirasahanjith" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" style="filter: grayscale(100%); transition: filter 0.3s ease;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)" />
-  </a>
-  <a href="https://instagram.com/isirasahanjith" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" style="filter: grayscale(100%); transition: filter 0.3s ease;" onmouseover="this.style.filter='none'" onmouseout="this.style.filter='grayscale(100%)" />
-  </a>
-</p>
+## 🚀 MISSION CONTROL
 
-<!-- Tool icons with uniform style -->
-<p align="center">
-  <!-- Example icon with consistent styling -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="margin:8px; filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.15));" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin:8px; filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.15));" />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" style="margin:8px; filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.15));" />
-  <!-- Repeat for all your icons -->
-  <!-- ... -->
-</p>
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<br/><strong>🎨 DESIGN</strong>
+<br/>Creating Visual Magic
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100">
+<br/><strong>💻 DEVELOP</strong>
+<br/>Building Digital Dreams
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
+<br/><strong>🚀 INNOVATE</strong>
+<br/>Pushing Boundaries
+</td>
+</tr>
+</table>
 
-</p>
+</div>
 
-<style>
-@keyframes wave {
-  0% { transform: rotate(0deg);}
-  15% { transform: rotate(14deg);}
-  30% { transform: rotate(-8deg);}
-  40% { transform: rotate(14deg);}
-  50% { transform: rotate(-4deg);}
-  60% { transform: rotate(10deg);}
-  70% { transform: rotate(0deg);}
-  100% { transform: rotate(0deg);}
-}
-</style>
+---
+
+<div align="center">
+
+## ⚡ POWER STATS
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanjith-i&custom_title=Isira's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+
+<br/>
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=sahanjith-i&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats" />
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanjith-i&theme=neon-dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanjith-i&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT QUESTS
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 DESIGN MASTERY
+```diff
++ Advanced Figma Prototyping & Auto-Layout
++ Design System Architecture
++ Microinteractions & Motion Design
++ AI-Powered Design Tools
++ 3D Interface Design
++ Accessibility-First Design
