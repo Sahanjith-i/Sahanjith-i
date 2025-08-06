@@ -1,245 +1,207 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋%20I'm%20Isira%20Sahanjith&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=✨%20ISIRA%20SAHANJITH%20✨&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20|%20Creative%20Developer%20|%20Digital%20Artist&descAlignY=51&descAlign=62" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=+Designing+Delight%2C+Building+Beauty;+Turning+Ideas+Into+Digital+Magic;+Creating+Tomorrow's+User+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin: 30px 0;">
-  <h1 style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4, #feca57); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 3em; font-weight: bold; margin: 0; animation: gradient 3s ease-in-out infinite;">
-    UI/UX Designer | Designing Delight, Building Beauty ✨
-  </h1>
+  <img src="https://komarev.com/ghpvc/?username=sahanjith-i&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sahanjith-i?label=Followers&style=for-the-badge&color=ff6b6b&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-brightgreen?style=for-the-badge&logo=figma" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge&logo=statuspage" alt="Status" />
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <img src="https://komarev.com/ghpvc/?username=sahanjith-i&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/sahanjith-i?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahanjith-i&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+## 🌟 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Current Mission
+Crafting intuitive digital experiences that bridge the gap between human needs and technological possibilities.
+
+### 💡 Philosophy  
+*"Great design is invisible - it just works, feels right, and makes people smile."*
+
+### 📫 Contact
+- **Email:** isira.sahan@gmail.com
+- **Portfolio:** [isira.sahan](https://isira.sahan)
+
+</td>
+<td width="50%">
+
+<div align="center">
+  <img src="https://github.com/sahanjith-i.png" alt="Profile" width="200" style="border-radius: 50%; border: 5px solid #4ECDC4;"/>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; margin: 40px 0;">
-  <div style="flex: 1; padding-right: 20px;">
-    <h2 style="color: #ff6b6b; border-bottom: 2px solid #ff6b6b; padding-bottom: 10px; display: inline-block;">
-      🧠 Currently Exploring
-    </h2>
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 15px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-      <ul style="list-style: none; padding: 0; margin: 0; color: white;">
-        <li style="margin: 10px 0; padding: 8px 0; border-left: 3px solid #feca57; padding-left: 15px;">🎨 Advanced Figma Prototyping</li>
-        <li style="margin: 10px 0; padding: 8px 0; border-left: 3px solid #4ecdc4; padding-left: 15px;">💻 React + Tailwind UI Systems</li>
-        <li style="margin: 10px 0; padding: 8px 0; border-left: 3px solid #ff6b6b; padding-left: 15px;">📱 Android UI XML + Jetpack</li>
-        <li style="margin: 10px 0; padding: 8px 0; border-left: 3px solid #96ceb4; padding-left: 15px;">☁️ Firebase Auth & Firestore</li>
-        <li style="margin: 10px 0; padding: 8px 0; border-left: 3px solid #45b7d1; padding-left: 15px;">🤖 AI in User Experience Design</li>
-      </ul>
-    </div>
-  </div>
-  
-  <div style="flex: 1; padding-left: 20px;">
-    <h2 style="color: #4ecdc4; border-bottom: 2px solid #4ecdc4; padding-bottom: 10px; display: inline-block;">
-      💬 Ask Me About
-    </h2>
-    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 15px 0; box-shadow: 0 8px 32px rgba(0,0,0,0.1);">
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-        <span style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; color: white; font-weight: bold; backdrop-filter: blur(10px);">UI Design</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; color: white; font-weight: bold; backdrop-filter: blur(10px);">UX Strategy</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; color: white; font-weight: bold; backdrop-filter: blur(10px);">Figma</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; color: white; font-weight: bold; backdrop-filter: blur(10px);">Prototyping</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; color: white; font-weight: bold; backdrop-filter: blur(10px);">Microinteractions</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; color: white; font-weight: bold; backdrop-filter: blur(10px);">React</span>
-        <span style="background: rgba(255,255,255,0.2); padding: 8px 15px; border-radius: 20px; color: white; font-weight: bold; backdrop-filter: blur(10px);">Frontend Animations</span>
-      </div>
-    </div>
-  </div>
+### 💬 Ask Me About
+- UI Design & UX Strategy
+- Figma & Prototyping  
+- Microinteractions
+- React & Frontend Animations
+
+</td>
+</tr>
+</table>
+
+## 🧠 Currently Exploring
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" height="60"/><br/>
+<b>Advanced Figma Prototyping</b><br/>
+<sub>Creating interactive prototypes with complex animations and micro-interactions</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/><br/>
+<b>React + Tailwind UI Systems</b><br/>
+<sub>Building scalable design systems with component libraries</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="60" height="60"/><br/>
+<b>Android UI XML + Jetpack</b><br/>
+<sub>Modern Android development with Jetpack Compose</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="60" height="60"/><br/>
+<b>Firebase Auth & Firestore</b><br/>
+<sub>Backend-as-a-Service integration for seamless UX</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60" height="60"/><br/>
+<b>AI in User Experience Design</b><br/>
+<sub>Exploring AI-powered design tools and personalized interfaces</sub>
+</td>
+</tr>
+</table>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 40px 0; text-align: center; color: white;">
-  <h2 style="margin-bottom: 20px; font-size: 2em;">📫 Let's Connect!</h2>
-  <p style="font-size: 1.2em; margin: 10px 0;">
-    <strong>Email:</strong> <a href="mailto:isira.sahan@gmail.com" style="color: #feca57; text-decoration: none;">isira.sahan@gmail.com</a>
-  </p>
-  <p style="font-size: 1.2em; margin: 10px 0;">
-    <strong>Portfolio:</strong> <a href="#" style="color: #4ecdc4; text-decoration: none;">isira.sahan</a>
-  </p>
+## 🛠️ Tech Stack & Tools
+
+### 🎨 Design & Creative
+<div align="center">
+  <img src="https://img.shields.io/badge/FIGMA-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/>
+  <img src="https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF" alt="Adobe Photoshop"/>
+ 
 </div>
 
-<h2 align="center" style="color: #ff6b6b; font-size: 2.5em; margin: 40px 0;">
-  🌐 Connect With Me
-</h2>
+### 💻 Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/ANGULAR-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap"/>
+</div>
 
-<div align="center" style="margin: 30px 0;">
-  <a href="https://twitter.com/isira sahanjith" target="_blank" style="margin: 0 15px; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="40"/>
+### 📱 Mobile Development
+<div align="center">
+  <img src="https://img.shields.io/badge/ANDROID-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84" alt="Android"/>
+  <img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A" alt="React Native"/>
+  <img src="https://img.shields.io/badge/FLUTTER-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter"/>
+</div>
+
+### 🗄️ Backend & Database
+<div align="center">
+  <img src="https://img.shields.io/badge/NODE.JS-339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/EXPRESS.JS-000000.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/MONGODB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/POSTGRESQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL"/>
+</div>
+
+### 💻 Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/JAVA-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" alt="PHP"/>
+</div>
+
+### 🛠️ Tools & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
+  <img src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS"/>
+  <img src="https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" alt="Linux"/>
+  <img src="https://img.shields.io/badge/ARDUINO-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/VS%20CODE-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code"/>
+</div>
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/isira-sahanjith" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="50"/>
   </a>
-  <a href="https://linkedin.com/in/isira sahanjith" target="_blank" style="margin: 0 15px; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  <a href="https://twitter.com/isira_sahanjith" target="_blank">
+    <img src="https://img.shields.io/badge/TWITTER-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" height="50"/>
   </a>
-  <a href="https://fb.com/isira sahanjith" target="_blank" style="margin: 0 15px; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="40"/>
+  <a href="https://instagram.com/isira_sahanjith" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="50"/>
   </a>
-  <a href="https://instagram.com/isira sahanjith" target="_blank" style="margin: 0 15px; transition: transform 0.3s ease;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40"/>
+  <a href="https://facebook.com/isira.sahanjith" target="_blank">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" height="50"/>
+  </a>
+  <a href="https://behance.net/isira_sahanjith" target="_blank">
+    <img src="https://img.shields.io/badge/BEHANCE-1769FF.svg?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF" alt="Behance" height="50"/>
+  </a>
+  <a href="https://dribbble.com/isira_sahanjith" target="_blank">
+    <img src="https://img.shields.io/badge/DRIBBBLE-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=EA4C89" alt="Dribbble" height="50"/>
   </a>
 </div>
 
-<h2 align="center" style="color: #4ecdc4; font-size: 2.5em; margin: 40px 0 20px 0;">
-  🛠️ Languages & Tools
-</h2>
+## 📊 GitHub Analytics
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  <h3 style="color: white; text-align: center; margin-bottom: 20px; font-size: 1.5em;">🎨 Design & Creative</h3>
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahanjith-i&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  <h3 style="color: white; text-align: center; margin-bottom: 20px; font-size: 1.5em;">💻 Frontend Development</h3>
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahanjith-i&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanjith-i&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=ffffff" alt="Top Languages" width="48%"/>
 </div>
 
-<div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  <h3 style="color: white; text-align: center; margin-bottom: 20px; font-size: 1.5em;">📱 Mobile Development</h3>
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanjith-i&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=4ecdc4&fire=feca57&currStreakLabel=ffffff" alt="GitHub Streak"/>
 </div>
 
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  <h3 style="color: #333; text-align: center; margin-bottom: 20px; font-size: 1.5em;">🗄️ Backend & Database</h3>
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-  </div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanjith-i&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff6b6b&line=4ecdc4&point=feca57" alt="Contribution Graph"/>
 </div>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  <h3 style="color: white; text-align: center; margin-bottom: 20px; font-size: 1.5em;">💻 Programming Languages</h3>
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-  </div>
+## 💭 Design Philosophy
+
+<div align="center">
+  <blockquote>
+    <p><em>"Design is not just what it looks like and feels like. Design is how it works. Every pixel has a purpose, every interaction tells a story, and every user deserves an experience that feels like magic."</em></p>
+    <footer>— Isira Sahanjith</footer>
+  </blockquote>
 </div>
 
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 20px; margin: 20px 0;">
-  <h3 style="color: white; text-align: center; margin-bottom: 20px; font-size: 1.5em;">🛠️ Tools & Others</h3>
-  <div align="center" style="margin: 20px 0;">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="margin: 10px;">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50" style="transition: transform 0.3s ease; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));"/>
-    </a>
-  </div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=twinkling" width="100%"/>
 </div>
 
-<h2 align="center" style="color: #ff6b6b; font-size: 2.5em; margin: 50px 0 30px 0;">
-  📊 GitHub Analytics
-</h2>
 
-<div align="center" style="margin: 30px 0;">
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sahanjith-i&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&icon_color=4ecdc4&text_color=ffffff" alt="GitHub Stats" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanjith-i&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=ff6b6b&text_color=ffffff" alt="Top Languages" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
-  </div>
-</div>
 
-<div align="center" style="margin: 30px 0;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahanjith-i&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=4ecdc4&fire=feca57&currStreakLabel=ffffff" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
-</div>
 
-<div align="center" style="margin: 40px 0;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanjith-i&theme=react-dark&hide_border=true&bg_color=0D1117&color=ff6b6b&line=4ecdc4&point=feca57" alt="Contribution Graph" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);"/>
-</div>
-
-<div align="center" style="margin: 50px 0;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <h3 style="color: #4ecdc4; font-size: 1.5em;">
-    ⭐ From <a href="https://github.com/sahanjith-i" style="color: #ff6b6b; text-decoration: none;">sahanjith-i</a> with ❤️
-  </h3>
-  <p style="color: #666; font-style: italic;">
-    "Design is not just what it looks like and feels like. Design is how it works." - Steve Jobs
-  </p>
-</div>
-```
 
