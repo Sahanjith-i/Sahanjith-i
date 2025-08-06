@@ -1,9 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=✨%20ISIRA%20SAHANJITH%20✨&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20|%20Creative%20Developer%20|%20Digital%20Artist&descAlignY=51&descAlign=62" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=+Designing+Delight%2C+Building+Beauty;+Turning+Ideas+Into+Digital+Magic;+Creating+Tomorrow's+User+Experiences" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,20,36,60,75&height=250&section=header&text=✨%20ISIRA%20SAHANJITH%20✨&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20|%20Creative%20Developer%20|%20Digital%20Artist&descAlignY=51&descAlign=62" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00BFFF&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=+Designing+Delight%2C+Building+Beauty;+Turning+Ideas+Into+Digital+Magic;+Creating+Tomorrow's+User+Experiences" alt="Typing SVG" />
 </div>
 
 <div align="center" style="margin: 30px 0;">
@@ -12,18 +9,18 @@
   <img src="https://img.shields.io/badge/Focus-UI%2FUX%20Design-brightgreen?style=for-the-badge&logo=figma" alt="Focus" />
   <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-success?style=for-the-badge&logo=statuspage" alt="Status" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🌟 About Me
+##  About Me
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Current Mission
+###  Current Mission
 Crafting intuitive digital experiences that bridge the gap between human needs and technological possibilities.
 
 ### 💡 Philosophy  
