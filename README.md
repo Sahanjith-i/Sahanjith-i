@@ -1,252 +1,103 @@
 <div align="center">
+  
+  <!-- Animated Header with Typing Effect -->
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Isira+Sahanjith;UI%2FUX+Designer;Designing+Delight%2C+Building+Beauty" alt="Typing SVG" />
+  </div>
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Isira Sahanjith
+  <!-- Animated Profile Views Counter -->
+  <p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=sahanjith-i&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="sahanjith-i" /> 
+    <a href="https://twitter.com/intent/follow?screen_name=YOURTWITTER">
+      <img src="https://img.shields.io/twitter/follow/YOURTWITTER?style=for-the-badge&color=1DA1F2&logo=twitter" alt="Twitter Follow"/>
+    </a>
+  </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%7C+Designing+Delight%2C+Building+Beauty;Creating+Amazing+User+Experiences;Passionate+About+Design+%26+Development" alt="Typing SVG" />
+  <!-- 3D Animated Trophy -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=sahanjith-i&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="sahanjith-i" />
+    </a>
+  </div>
 
-<img src="https://komarev.com/ghpvc/?username=sahanjith-i&label=Profile%20views&color=0e75b6&style=flat" alt="sahanjith-i" />
+  <!-- Animated Divider -->
+  <img src="https://github.com/IsiraSahanjith/IsiraSahanjith/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahanjith-i&theme=algolia&no-frame=true&no-bg=false&margin-w=4" alt="sahanjith-i" />
-</a>
+  <!-- About Me Section with Floating Animation -->
+  <div align="center" style="animation: float 6s ease-in-out infinite;">
+    <h2>🚀 About Me</h2>
+    <p>
+      - 🧠 Currently Exploring <strong>Advanced Figma Prototyping, React + Tailwind UI Systems, Android UI XML + Jetpack, Firebase Auth & Firestore, AI in UX Design</strong><br>
+      - 💬 Ask me about <strong>UI Design · UX Strategy · Figma · Prototyping · Microinteractions · React · Frontend Animations</strong><br>
+      - 📫 How to reach me <strong>isira.sahan@gmail.com</strong><br>
+      - 📄 Portfolio <strong><a href="https://isira.sahan" target="_blank">isira.sahan</a></strong>
+    </p>
+  </div>
 
-</div>
+  <!-- Animated Stats Cards -->
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsiraSahanjith&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&animation=spin&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraSahanjith&layout=compact&langs_count=8&theme=radical&border_radius=10&animation=spin&hide_border=true"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IsiraSahanjith&theme=radical&border_radius=10&animation=spin&hide_border=true"/>
+  </div>
 
----
+  <!-- Skill Bars with Animation -->
+  <h2 align="center">🔥 Skills</h2>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=figma,ai,ps,xd,blender,threejs&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,firebase,nodejs,express,mongodb&theme=dark&perline=7" />
+  </div>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <!-- Connect Section with Hover Effects -->
+  <h2 align="center">📫 Connect With Me</h2>
+  <div align="center">
+    <a href="https://twitter.com/YOURTWITTER" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/YOURLINKEDIN" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/YOURINSTAGRAM" target="_blank">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="mailto:isira.sahan@gmail.com" target="_blank">
+      <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://dribbble.com/YOURDRIBBLE" target="_blank">
+      <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+    </a>
+    <a href="https://www.behance.net/YOURBEHANCE" target="_blank">
+      <img alt="Behance" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" />
+    </a>
+  </div>
 
-## 🚀 About Me
-
-- 🧠 **Currently Exploring**
-  - 🎨 Advanced Figma Prototyping
-  - 💻 React + Tailwind UI Systems
-  - 📱 Android UI XML + Jetpack
-  - ☁️ Firebase Auth & Firestore
-  - 🤖 AI in User Experience Design
-
-- 💬 Ask me about **UI Design · UX Strategy · Figma · Prototyping · Microinteractions · React · Frontend Animations**
-
-- 📫 How to reach me **isira.sahan@gmail.com**
-
-- 📄 Know about my experiences [isira.sahan](isira.sahan)
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=IsiraSahanjith&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Isira's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsiraSahanjith&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 Connect with me
-
-<a href="https://twitter.com/isira sahanjith" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="isira sahanjith" height="40" width="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/isira sahanjith" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isira sahanjith" height="40" width="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://fb.com/isira sahanjith" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isira sahanjith" height="40" width="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/isira sahanjith" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isira sahanjith" height="40" width="50" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🛠️ Languages and Tools
-
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://angular.io" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/>
-</a>
-&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-</a>
+  <!-- Spotify Currently Playing (Optional) -->
+  <div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOURSPOTIFYID&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Now Playing"/>
+  </div>
 
 </div>
 
----
-
-<div align="center">
-
-## 📈 More GitHub Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahanjith-i&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=0D1117" alt="sahanjith-i" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 GitHub Streak
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanjith-i&theme=radical&hide_border=true&background=0D1117" alt="sahanjith-i" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanjith-i&theme=redical&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ *"Design is not just what it looks like and feels like. Design is how it works."* - Steve Jobs
-
-**Thanks for visiting! 😊**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" alt="Footer" />
-
-</div>
-```
-
-
-
+<!-- CSS Animation Styles -->
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  img:hover {
+    transform: scale(1.05);
+    transition: all 0.3s ease;
+  }
+  
+  .skill-icon:hover {
+    animation: bounce 0.5s;
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
