@@ -88,82 +88,162 @@ Crafting intuitive digital experiences that bridge the gap between human needs a
 
 ### 🎨 Design & Creative
 <div align="center">
-  <img src="https://img.shields.io/badge/FIGMA-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" alt="Figma"/>
-  <img src="https://img.shields.io/badge/ADOBE%20ILLUSTRATOR-FF9A00.svg?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=FF9A00" alt="Adobe Illustrator"/>
-  <img src="https://img.shields.io/badge/ADOBE%20PHOTOSHOP-31A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=31A8FF" alt="Adobe Photoshop"/>
- 
+  <p>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="50" height="50" style="margin-right: 15px; transition: all 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px #F24E1E)'" onmouseout="this.style.filter='none'"/>
+  </a>
+
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="50" height="50" style="margin-right: 15px; transition: all 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px #FF9A00)'" onmouseout="this.style.filter='none'"/>
+  </a>
+
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Photoshop_CC_icon.png" alt="Adobe Photoshop" width="50" height="50" style="transition: all 0.3s;" onmouseover="this.style.filter='drop-shadow(0 0 8px #31A8FF)'" onmouseout="this.style.filter='none'"/>
+  </a>
+</p>
+
 </div>
 
 ### 💻 Frontend Development
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/REACT-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/ANGULAR-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=DD0031" alt="Angular"/>
-  <img src="https://img.shields.io/badge/TAILWIND%20CSS-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap"/>
+  <p>
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #E34F26)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #1572B6)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #F7DF1E)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- TypeScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #3178C6)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #61DAFB)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Angular -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #DD0031)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #06B6D4)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Bootstrap -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" style="transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #7952B3)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+</p>
+
 </div>
 
 ### 📱 Mobile Development
 <div align="center">
-  <img src="https://img.shields.io/badge/ANDROID-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84" alt="Android"/>
-  <img src="https://img.shields.io/badge/REACT%20NATIVE-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black&labelColor=20232A" alt="React Native"/>
-  <img src="https://img.shields.io/badge/FLUTTER-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B" alt="Flutter"/>
+<p>
+  <!-- Android -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #3DDC84)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- React Native (React Logo) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #61DAFB)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Flutter -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" width="50" style="transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #02569B)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+</p>
+
 </div>
 
 ### 🗄️ Backend & Database
 <div align="center">
-  <img src="https://img.shields.io/badge/NODE.JS-339933.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/EXPRESS.JS-000000.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/MONGODB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/MYSQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/POSTGRESQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=336791" alt="PostgreSQL"/>
+  <p>
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #339933)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Express.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" style="margin-right:15px;transition:all 0.3s; background-color:white; border-radius:8px; padding:5px;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #000000)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Firebase -->
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #FFCA28)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #47A248)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #4479A1)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" style="transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #336791)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+</p>
+
 </div>
 
 ### 💻 Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00" alt="Java"/>
-  <img src="https://img.shields.io/badge/PYTHON-3776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C" alt="C++"/>
-  <img src="https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=239120" alt="C#"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" alt="PHP"/>
+  <p>
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #ED8B00)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #3776AB)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #A8B9CC)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- C++ -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #00599C)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #239120)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" style="transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #777BB4)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+</p>
+
 </div>
 
 ### 🛠️ Tools & DevOps
 <div align="center">
-  <img src="https://img.shields.io/badge/GIT-F05032.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
-  <img src="https://img.shields.io/badge/GITHUB-181717.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
-  <img src="https://img.shields.io/badge/AMAZON%20AWS-232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS"/>
-  <img src="https://img.shields.io/badge/LINUX-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624" alt="Linux"/>
-  <img src="https://img.shields.io/badge/ARDUINO-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white&labelColor=00979D" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/VS%20CODE-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code"/>
-</div>
+  <p>
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #F05032)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" style="margin-right:15px;transition:all 0.3s; background-color:white; border-radius:50%;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #181717)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #FF6C37)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- AWS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #232F3E)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #FCC624)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- Arduino -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="50" style="margin-right:15px;transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #00979D)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" style="transition:all 0.3s;" onmouseover="this.style.transform='scale(1.2)';this.style.filter='drop-shadow(0 0 8px #007ACC)'" onmouseout="this.style.transform='scale(1)';this.style.filter='none'"/>
+</p>
+
 
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/isira-sahanjith" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" height="50"/>
+  <a href="https://www.linkedin.com/in/isira-sahanjith" target="_blank" rel="noopener" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>
-  <a href="https://twitter.com/isira_sahanjith" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter" height="50"/>
+
+  <a href="https://twitter.com/isira_sahanjith" target="_blank" rel="noopener" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" />
   </a>
-  <a href="https://instagram.com/isira_sahanjith" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" height="50"/>
+
+  <a href="https://www.instagram.com/i_s_sahan?igsh=d3hmams4bTh5Znli&utm_source=qr" target="_blank" rel="noopener" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" />
   </a>
-  <a href="https://facebook.com/isira.sahanjith" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" height="50"/>
+
+  <a href="https://www.facebook.com/isira.sahanjith" target="_blank" rel="noopener" style="margin-right:10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" />
   </a>
-  <a href="https://behance.net/isira_sahanjith" target="_blank">
-    <img src="https://img.shields.io/badge/BEHANCE-1769FF.svg?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF" alt="Behance" height="50"/>
-  </a>
-  <a href="https://dribbble.com/isira_sahanjith" target="_blank">
-    <img src="https://img.shields.io/badge/DRIBBBLE-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white&labelColor=EA4C89" alt="Dribbble" height="50"/>
+
+  <a href="https://behance.net/isira_sahanjith" target="_blank" rel="noopener">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" alt="Behance" width="40" />
   </a>
 </div>
 
